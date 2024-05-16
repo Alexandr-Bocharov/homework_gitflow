@@ -7,4 +7,7 @@ def get_upper(text: str) -> str:
 def get_title(text: str) -> str:
     return text.title()
 
+def func3():
+    return None
+
 
